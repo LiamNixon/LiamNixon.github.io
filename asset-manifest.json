@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1622ec44.css",
-    "main.js": "/static/js/main.db794f28.js",
+    "main.css": "/static/css/main.2cc28b68.css",
+    "main.js": "/static/js/main.c99b023f.js",
     "static/media/portfolio-RMG-dashboard-splash.png": "/static/media/portfolio-RMG-dashboard-splash.b37f7a6240b50cab8854.png",
     "static/media/portfolio-bantam-west-splash.png": "/static/media/portfolio-bantam-west-splash.b6003cf1e4ebcdbb8749.png",
     "static/media/portfolio-perform-livestream-splash.png": "/static/media/portfolio-perform-livestream-splash.342662e0db252d4b3ee1.png",
@@ -18,11 +18,11 @@
     "static/media/tailwind-css-icon.svg": "/static/media/tailwind-css-icon.d84a6f369e7170891c4a19587ccf78e1.svg",
     "static/media/vue-js-icon.svg": "/static/media/vue-js-icon.9f537ef871539b63299dea9ec24182f4.svg",
     "static/media/webpack-icon.svg": "/static/media/webpack-icon.5a9d112718ef7773344a3258726ba955.svg",
-    "main.1622ec44.css.map": "/static/css/main.1622ec44.css.map",
-    "main.db794f28.js.map": "/static/js/main.db794f28.js.map"
+    "main.2cc28b68.css.map": "/static/css/main.2cc28b68.css.map",
+    "main.c99b023f.js.map": "/static/js/main.c99b023f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1622ec44.css",
-    "static/js/main.db794f28.js"
+    "static/css/main.2cc28b68.css",
+    "static/js/main.c99b023f.js"
   ]
 }
